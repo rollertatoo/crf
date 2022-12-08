@@ -1,0 +1,370 @@
+Abstract
+Chronic kidney disease (CKD) is a worldwide public health concern with limited treatment options. The incidence of CDK is increasing and the disease is associated with a poor quality of life and a high financial cost of treatment. Shen-Kang (SK), a traditional Chinese herbal medicine, has been used clinically in the treatment of renal diseases for decades. This study was carried out to validate the therapeutic effects of SK on renal injury induced by 5/6 nephrectomy, as well as its effects on the apoptosis of proximal tubule epithelial cells (HK-2 cells), in an aim to elucidate its mechanisms of action. For this purpose, an animal model of renal injury was created by subjecting rats to a 5/6 nephrectomy. The rats in the sham-operated and model groups received distilled water, while the rats in the SK and enalapril (EN) groups were treated with SK or EN. The levels of blood urea nitrogen (BUN) and serum creatinine (SCr) were measured. Kidney tissues obtained from the rats were stained with hematoxylin and eosin. HK-2 cells were employed to investigate the effects of SK on the apoptosis of renal proximal tubule epithelial cells induced by treatment with hydrogen peroxide (H2O2). In addition, cell viability was measured by MTT assay. Apoptotic events were monitored by western blot analysis, flow cytometric analysis and nuclear morphological anlaysis. The levels of intracellular reactive oxygen species (ROS) were measured by flow cytometric analysis with dihydroethidium staining. The results revealed that the administration of SK to 5/6 nephrectomized rats for 1 week significantly decreased the levels of SCr and BUN. The morphological observations of the kidneys also indicated the amelioration of damage to renal tissue. Treatment of the HK-2 cells with SK significantly protected the cells from H2O2-induced apoptosis, as indicated by an increase in cell viability, the decrease in the cleavage of poly(ADP-ribose) polymerase (PARP) and fewer condensed nuclei. H2O2-induced ROS production was also attenuated by treatment with SK. Of note, the increase in the levels of phosphorylated extracellular signal-regulated kinase (ERK) and phosphorylated p38 which occurred in response to exposure to H2O2 was inhibited by treatment with SK. No changes were observed in the levels of phosphorylated JNK under the same treatment conditions. Thus, the mitogen-activated protein kinase (MAPK) signaling pathways play an essential role in the development of CKD. SK alleviated renal injury in rats induced by 5/6 nephrectomy and prevented the H2O2-induced apoptosis of HK-2 cells through the MAPK signaling pathways.
+Introduction
+Chronic kidney disease (CKD) has a significant impact on public health worldwide (1), and it is an important risk factor for death and cardiovascular disease (2). CKD is characterized by the progressive loss of renal function, chronic inflammation, oxidative stress, vascular remodeling, as well as glomerular and tubulointerstitial scarring (3). Although the progression of CKD may depend upon the capacity of residual nephrons to overcome stress, the mechanisms underlying the progression of CKD remain poorly understood (2).
+
+Although various animal CKD models of CKD have been reported, rodent models tend to be more commonly employed in experimental CKD studies (4). The partially nephrectomized rat model has been used extensively to investigate archetypal pathological changes in CKD. The remnant kidney of nephrectomized rats exhibits adaptive, compensatory growth in the days following injury, which is similar to the course of human disease (4–6).
+
+Shen-Kang (SK), a traditional Chinese medicine (TCM) that confers protection against renal diseases (due to its composition) (7–27), is comprised of 4 herbs used in TCM: rhubarb (Rheum officinale), Salvia miltiorrhiza, safflower (Carthamus tinctorius L.) and Astragalus membranaceu). In our pre-experimental studies, in rats subjected to 5/6 nephrectomy, treatment with SK attenuated chronic clinical renal failure. However, the mechanisms underlying the renal protective effects of SK remain to be elucidated.
+
+Oxidative stress, which is characterized by excessive levels of reactive oxygen species (ROS) due to an imbalance between the oxidative and anti-oxidative systems, has been implicated in various pathological conditions observed in CKD (28–30). Renal proximal tubule epithelial cells (HK-2 cells) are most frequently atrophic in CKD (1). During renal injury, elevated levels of ROS in the proximal tubule promote lipid peroxidation and DNA damage, eventually resulting in apoptotic cell death in the kidneys (31–33).
+
+In this study, we assessed the protective properties of SK in rats subjected to 5/6 nephrectomy, as well as in renal proximal tubule epithelial cells (HK-2 cells). An initial evaluation of the beneficial effects of SK was performed using an in vivo model of CKD (5/6 nephrectomized rats). These observations were further evaluated using an in vitro model with human renal proximal tubular epithelial HK-2 cells, in which ROS production, apoptosis and cell viability were determined. In addition, the molecular mechanisms underlying the potentially protective effects of SK were also investigated.
+
+Materials and methods
+Materials
+SK was obtained from Xi'an Shiji Shengkang Pharmaceutical Industry Co., Ltd., (Xi'an, China). Enalapril (EN) was purchased from Merck Millipore (Billerica, MA, USA). Anti-extracellular signal-regulated kinase (ERK; #9102), anti-phosphorylated ERK (p-ERK; #4370), anti-p38 (#9212), and anti-phosphorylated p38 mitogen-activated protein kinase (p-p38 MAPK; #9216) antibodies were purchased from Cell Signaling Technology (Danvers, MA, USA). Anti-c-Jun N-terminal kinase (JNK; sc-571), anti-phosphorylated JNK (p-JNK; sc-6254), anti-poly(ADP-ribose) polymerase (PARP; sc-8007) and anti-actin (sc-47778) antibodies were obtained from Santa Cruz Biotechnology, Inc. (Dallas, TX, USA). Horseradish peroxidase (HRP)-conjugated anti-mouse and anti-rabbit IgG antibodies were purchased from Merck Millipore. Hydrogen peroxide (H2O2) was purchased from Samchun Chemical Co. Ltd. (Seoul, Korea).
+
+Animals
+Six-week-old male Sprague-Dawley (SD) rats weighing 200±20 g were obtained from the Fourth Military Medical University (Xi'an, China). The rats were maintained under a regular 12 h light/dark cycle at stable room temperature for 1 week prior to the commencement of the experiments. The rats were fed standard rodent chow and had free access to tap water. All experimental procedures were carried out according to the protocols approved by the Ethics Committee for Animal Experimentation of the Fourth Military Medical University and in accordance with the National Institutes of Health Guide for the Care and Use of Laboratory Animals.
+
+Surgical procedures and drug administration
+Each rat was anesthetized with chloral hydrate solution (33 mg/100 g) via intraperitoneal injection. A total of 18 rats was subjected to 5/6 nephrectomy (5/6 Nx) in which, the upper and lower poles of the left kidney and the entire right kidney were removed, as previousy described (5,34,35). A sham operation was performed on 6 additional rats as a non-Nx control (sham-operated) group. The nephrectomized rats were randomly divided into 3 groups as follows: i) no treatment (5/6 Nx, n=6); ii) treatment with SK (5/6 Nx + SK, n=6); and iii) treatment with EN (5/6 Nx + EN, n=6, positive control). The rats in the treatment groups received either SK (450 mg/kg/day; via tail vein injection) or EN (5 mg/kg/day; via intraperitoneal injection) daily for 1 week following surgery, whereas the rats in the sham-operated group and 5/6 Nx (no treatment) group received the vehicle (distilled water, 5 ml/kg/day) only. The animals were sacrificed by exsanguination at day 30 post-surgery.
+
+Biochemical analysis
+Blood samples were collected from the orbital venous plexus on days 0, 7 and 20 post-surgery. At the end of the experiment, blood samples were obtained from the abdominal aorta, immediately following sacrifice. The serum concentrations of blood urea nitrogen (BUN) and serum creatinine (SCr) were determined using standard laboratory procedures, as previously described (36).
+
+Histological analysis
+After the rats were sacrificed, the kidney tissue was removed from the abdominal cavity of the rats by surgical methods (isolated kidney tissue from adipose tissue, renal vasculature cut with scissors to obtain kidney tissue). Tissue was fixed in formalin, dehydrated with ethanol, rendered transparent with xylene, embedded with liquid paraffin and sliced with an automatic slicing machine. Slices of renal tissue fixed in 10% neutral-buffered formalin were embedded in paraffin, and 2-μm-thick sections were cut for morphological anlaysis. These sections were stained with hematoxylin and eosin (H&E), as previously descrbied (37). All tissue samples were evaluated by an independent investigator without prior knowledge of the group to which the rat belonged. All glomeruli and the entire microscopic area of each specimen were examined.
+
+Cell culture
+Renal proximal tubule epithelial cells (HK-2 cells) were obtained from the American Type Culture Collection (ATCC, Manassas, VA, USA). The HK-2 cells were passaged every 2–3 days in 100-mm dishes containing combined Dulbecco's modified Eagle's medium/F-12 [DMEM/F12(1:1)] supplemented with 10% fetal bovine serum, 2 mM glutamine, 100 U/ml penicillin and 100 μg/ml streptomycin (Life Technologies, Grand Island, NY, USA). The cells were grown at 37°C in a humidified 5% CO2 atmosphere. These cells were treated with H2O2 in the presence or absence of SK at the indicated concentrations. For experimental use, the cells were harvested at the end of the treatment period for further analysis.
+
+Cell viability assay
+Cell viability was measured using the EZ-Cytox Cell Viability Assay kit (MTT) assay (Itsbio, Seoul, Korea). MTT assay is based on the cleavage of the tetrazolium salt, MTT, to the water-insoluble formazan (38,39). The formazan dye produced by viable cells can be quantified by measuring the absorbance of the dye solution at 460 nm. The HK-2 cells were seeded in 96-well plates (5×103 cells/well) at 37°C in a 5% CO2 incubator in DMEM/F12. Following an overnight incubation, the cells were incubated for 24 h in the presence or absence of SK (300, 600 and 900 μg/ml) for 1 h prior to exposure to H2O2 (200, 300, 400 and 500 μM). The final incubation of the cells with 10 μl of kit reagent was performed for 45 min at 37°C. The absorbance was measured at 460 nm using a microplate reader (Bio-Rad, Hercules, CA, USA). Cell viability was calculated and averaged. The cells from the control group were treated in the same manner without H2O2, and cell viability was expressed as a percentage of the untreated controls.
+
+Flow cytometric analysis
+Early apoptosis and late apoptosis/necrosis induced by H2O2 were detected quantitatively, using an Annexin V-FITC apoptosis detection kit (Invitrogen, Grand Island, NY, USA), as previously described (31). Briefly, the cells were treated with H2O2 and/or SK, and then harvested by centrifugation, washed with PBS, re-suspended in a Ca2+-enriched binding buffer (10 mM HEPES, pH 7.4, 140 mM NaCl, and 2.5 mM CaCl2), incubated with 10 μM fluorescein isothiocyanate (FITC)-conjugated Annexin V protein and propidium iodide (PI) for 15 min in the dark and analyzed by two-color flow cytometry. The cell samples were detected immediately in the FL1-H and FL2-H channels of a FACSCalibur flow cytometer (BD Biosciences, San Jose, CA, USA), which measured the fluorescence at 488 nm excitation and 530 nm emission. The number of apoptotic cells was quantified and the percentage of apoptotic cells was calculated.
+
+4′,6-Diamidino-2-phenylindole (DAPI) staining
+Changes in the nuclear morphology of apoptotic cells were detected using the DNA-specific fluorescent dye, DAPI (Vectashield; Vector Laboratories, Burlingame, CA, USA), as previously described (31). The HK-2 cells were grown on glass coverslips and treated with H2O2 and/or SK for 24 h. The treated cells were then fixed with 4% paraformaldehyde for 15 min at room temperature, washed with PBS, permeablized with 0.2% Triton X-100 for 10 min at room temperature, washed with PBS again and 20 μl of mounting medium (DAPI) was then added to the fixed cells for 5 min. The finalized slides were stored at 4°C, protected from light and examined under a fluorescence microscope (Nikon, Tokyo, Japan) in order to assess chromatin condensation and fragmentation of the nuclei. Cells that exhibited a reduced nuclear size, chromatin condensation, intense fluorescence and nuclear fragmentation were considered apoptotic.
+
+Determination of oxidative stress
+The generation of intracellular ROS was measured with dihydroethidium (DHE; Invitrogen) (a ROS fluorescent probe), as previously described (1). Briefly, the HK-2 cells were seeded onto 6 cm plates and incubated with 500 μM H2O2 for 6 h in the presence or absence of 300 μg/ml SK. At the end of the experimental period, the cells were incubated with 5 μM DHE for 30 min at 37°C, washed and then collected by centrifugation (600 × g for 5 min at room temperature), and resuspended in PBS. The fluorescence intensity was measured using a FACSCalibur™ flow cytometer (BD Biosciences). An OxiSelect™ Total Antioxidant Capacity (TAC) assay kit (Cell Biolabs, San Diego, CA, USA) was employed to measure TAC, as previously described (40) and to estimate the reductive or antioxidant capacity of biomolecules. Briefly, HK-2 cells were incubated with 500 μM H2O2 for 6 h in the presence or absence of 300 μg/ml SK, washed 3 times with cold PBS, homogenized in cold PBS, and then centrifuged at 10,000 × g for 10 min at 4°C. The supernatant was stored at −80°C and measured according to the manufacturer's instructions and with the appropriate controls.
+
+Western blot analysis
+Following treatment with H2O2 and/or SK, the HK-2 cells were placed on ice, washed twice in ice-cold PBS and lysed at 4°C for 30 min in cell lysis buffer containing 50 mmol/l Tris-HCl, pH 7.5, 1% (v/v) Nonidet P-40, 250 mmol/l NaCl, 0.1 mmol/l phenylmethylsulfonyl fluoride, 0.1 mmol/l sodium vanadate, 20 mmol/l β-glycerol phosphate, 2 mmol/l DTT, 1 mmol/l leupeptin and 10 mmol/l PNPP, as previously described (31). The lysate was then centrifuged at 16,000 × g for 20 min at 4°C. The supernatant was collected for use in sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE) and the protein content was estimated using a bovine serum albumin protein assay. Proteins were mixed with sample buffer containing β-mercaptoethanol and heated at 100°C for 2 min. A total of 40 μg of each cell lysate was fractionated by SDS-PAGE on a 10% polyacrylamide gel and transferred onto nitrocellulose membranes. After blocking with 5% skim milk in Tris-buffered saline (TBS) containing 0.02% Tween-20 at room temperature for 1 h, the membranes were then incubated with primary antibodies (diluted 1:1,000) overnight at 4°C. Actin (diluted 1:5,000) was used as a loading control. Following incubation with the primary antibodies, the blots were washed 4 times in TBS/Tween-20 prior to incubation for 1 h at room temperature in goat anti-mouse or anti-rabbit HRP-conjugate antibody at 1:2,000 dilution in TBS/Tween-20 containing 5% skim milk. Following extensive washing in TBS/Tween-20, the blots were processed for the detection of antigens using the enhanced chemiluminescence system. Proteins were visualized with the ECL-chemiluminescence kit (GE Healthcare Life Sciences, Logan, UT, USA).
+
+Statistical analysis
+The quantification of the results of western blot analysis was carried out using the ImageJ (1.47) software (version 1.47). Data are expressed as the means ± SEM of the 3 independent experiments and analyzed by the Student's unpaired t-test (SPSS version 17.0 software; SPSS Inc., Chicago, IL, USA). A value of P<0.05 was considered to indicate a statistically significant difference.
+
+Results
+Administration of SK attenuates the development of glomerular lesions in rats induced by 5/6 nephrectomy
+In order to evaluate the putative effects of SK on renal function, histopathological changes in the renal sections of 5/6 nephrectomized rats were examined (Fig. 1). In the control (sham-operated) group, proximal and distal tubules exhibited a normal structure (no histological lesions; Fig. 1). A significantly greater number of renal histological abnormalities (glomerular sclerosis, tubular vacuoles, interstitial fibrosis and inflammatory cell infiltration) was observed in the 5/6 Nx vs. the sham-operated group. These abnormalities were markedly decreased in the 5/6 Nx + SK group compared with the 5/6 Nx group, and similar effects were also observed in the 5/6 Nx + EN-treated group (Fig. 1). EN, an effective and widely used drug in the treatment of CKD (41–47), was used as a positive control treatment. These results indicate that SK may be beneficial in the treatment of CKD.
+
+FAILED
+Treatment with SK or EN improves renal function in rats subjected to 5/6 nephrectomy
+To evaluate renal function, SCr and BUN levels were measured. The SCr and BUN levels significantly increased in the 5/6 Nx group vs. the sham-operated group (Fig. 2), indicating that the 5/6 nephrectomy model, reflecting an impairment in renal function, had been successfully established. Notably, the SCr and BUN levels were significantly decreased in the 5/6 Nx + SK and 5/6 Nx + EN groups compared with the 5/6 Nx group (Fig. 2), which suggests that the administration of SK improves renal function in a similar manner to EN.
+
+	
+Figure 2
+Changes in the levels of serum creatinine (SCr) and blood urea nitrogen (BUN) in rats subjected to 5/6 nephrectomy (5/6 Nx). Serum levels of (A) SCr and (B) BUN were measured on days 0, 7, 20 and 30 following 5/6 Nx. Values are the means ± SEM (n=6); **P<0.01 compared with the control group; #P<0.05 and ##P<0.01 compared with corresponding model values.
+
+SK protects against H2O2-mediated cell death in HK-2 cells
+To elucidate the molecular mechanisms underlying the effects of SK, HK-2 cells were employed to examine the effects of SK on the apoptosis of renal proximal tubule epithelial cells induced by H2O2. The HK-2 cells were exposed to H2O2 at various concentrations at 37°C for 24 h. Cell viability was then measured by MTT assay. As shown in Fig. 3A, cell viability was decreased in the H2O2-treated cells in a dose-dependent manner (200–500 μM). Notably, H2O2-induced cell death was inhibited by treatment with SK (300, 600 and 900 μg/ml) (Fig. 3B) prior to exposure to H2O2 (500 μM), suggesting that treatment with SK effectively protects HK-2 cells against H2O2-induced cell death.
+
+	
+Figure 3
+Effects of Shen-Kang (SK) on viability of HK-2 cells. Cell viability was assessed by MTT assay following treatment with SK and/or H2O2 for 24 h. (A) Viability of HK-2 cells following exposure to H2O2 at various concentrations. (B) Viability of HK-2 cells treated with various concentrations of SK prior to exposure to 500 μM H2O2. Values are expressed as a percentage of the untreated controls, and each value represents the mean ± SEM of 3 individual experiments. *P<0.05 and **P<0.01 compared with the control; #P<0.05 compared with the H2O2-treated group.
+
+Morphological and biochemical effects of H2O2 and SK on HK-2 cells
+To further investigate the effects of SK on H2O2-mediated cell death, Annexin V and PI staining were employed to evaluate the events leading to cell death. FACS analysis with Annexin V and PI staining revealed that the apoptotic cell population, induced by exposure to H2O2 for 24 h, was elevated from 3.4±0.1 to 32.1±0.4% (Fig. 4A); this increase in the apoptotic cell population was prevented by treatment with SK prior to exposure to H2O2 (apoptotic cell population decreased to 19.1±0.3%). Statistical analysis further confirmed that treatment with SK protected the HK-2 cells against apoptosis (induced by H2O2; Fig. 4A, lower panel). To further evaluate the effects of SK, morphological changes in the nuclei were observed using DAPI staining with fluorescence microscopy. Normal nuclei were characterized by homogeneous staining, and regular oval and rounded shapes (Fig. 4B, left panel). Apoptotic nuclei, indicated by condensed nuclei and nuclear fragmentation, were apparent following exposure to 500 μM H2O2 for 24 h (Fig. 4B, center panel). However, these changes in nuclear characteristics were ameliorated by pre-treatment with SK in the HK-2 cells (Fig. 4B, right panel). This was confirmed by western blot analysis of PARP, which is cleaved under apoptotic conditions (48,49). As illustrated in Fig. 4C, the cleaved form of PARP significantly increased following exposure to H2O2 for 24 h. The cleavage of PARP was inhibited by pretreatment of the cells with SK (Fig. 4C), suggesting that SK prevents the molecular events involved in apoptotic signaling.
+
+FAILED
+Inhibition of intracellular oxidative stress following treatment with SK in HK-2 cells
+It is well-established that oxidative stress contributes to apoptosis (31–33). Therefore, the intracellular ROS levels, and TAC, were measured in the HK-2 cells. ROS production, measured by DHE staining, was elevated following exposure to H2O2; treatment with SK significantly reduced ROS production (Fig. 5A). In addition, TAC was also enhanced by treatment with SK (Fig. 5B). Taken together, our findings suggest that the SK-induced inhibition of ROS production is mediated by enhanced TAC in HK-2 cells.
+
+	
+Figure 5
+Effects of Shen-Kang (SK) on H2O2-induced oxidative stress in HK-2 cells. (A) Levels of reactive oxygen species (ROS), as indicated by FITC fluorescence, were assessed by flow cytometry. Representative flow cytometry tracings of DHE-loaded HK-2 cells in untreated control (dotted) and exposed to H2O2 (solid) or to H2O2-treated cells with SK (dashed). (B) Total antioxidant capacity (TAC) was measured by colorimetric assay. Values are expressed as the means ± SEM of 3 individual experiments. *P<0.05 and **P<0.01 compared with the control; #p<0.05 compared with the H2O2-treated group.
+
+Modulation of MAPK signaling by SK in HK-2 cells
+To determine whether SK regulates the signaling mechanisms responsible for H2O2-induced apoptosis, the activation of different MAPK signaling pathways, including ERK, JNK and p38 MAPK, was monitored by western blot analysis. Notably, the H2O2-mediated activation of ERK and p38 was observed, but JNK activation was not affected by exposure to H2O2 (Fig. 6A). Furthermore, pre-treatment of the HK-2 cells with SK inhibited the phosphorylation of ERK and p38, but not that of JNK.
+
+	
+Figure 6
+Effects of Shen-Kang (SK) and H2O2 on MAPK phosphorylation in HK-2 cells. (A) Western blot analysis of phosphorylated (p-)ERK, p-JNK, and p-p38 following treatment of HK-2 cells with 500 μM H2O2 and/or 300 μg/ml SK. Values are expressed as the means ± SEM of 3 individual experiments. *P<0.05 compared with the control; #P<0.05 compared with the H2O2-treated group. (B) Proposed model of SK action in 5/6 nephrectomy (5/6 Nx)-induced chronic kidney disease (CKD). SK plays a role in the protection of HK-2 cells from H2O2-induced apoptosis by modulating total antioxidant capacity (TAC) and MAPK signaling pathway activation, which eventually leads to attenuation of CKD in vivo.
+
+Discussion
+CKD is a progressive, pathological condition characterized by the progressive destruction of renal parenchyma and the loss of functional nephrons over time (50). Various pathophysiological conditions, including diabetes, hypertension, hyperlipidemia, obesity, smoking and aging, are risk factors for the progression of CKD (51–54). The clinical diagnosis of CKD is dependent on the levels of BUN and SCr (50). In 2002, the National Kidney Foundation Kidney Disease Outcomes Quality Initiative established a novel CKD staging paradigm that characterized the progression of CKD according to 5 stages (I–V) that result in unavoidable end-stage renal disease (55–58). It is critical that novel therapeutics or medications are developed to improve the cost-effectiveness of renoprotective interventions, such as TCM.
+
+TCM has been used for over 2,500 years. Up to 80% of the world's population uses herbs for medicinal purposes (59,60). TCM is frequently used in conjunction with pharmacotherapy for the treatment of CKD in China and many other Asian countries (61,62). TCM represents a major complementary and alternative branch of CKD therapy (63). Clinical data indicate that SK and its constituents, which include rhubarb, Salvia, safflower and Astragalus, exert protective effects against renal diseases (7–27). In China, SK is widely used in the treatment of patients with renal diseases, such as CKD, diabetic nephropathy, chronic renal failure, glomerulonephritis, chronic nephritis and renal insufficiency. SK reduces pathological damage, inhibits endothelial cell proliferation, attenuates proteinuria and glomerular sclerosis and protects residual renal function and attenuates disease progression (41–47).
+
+The 5/6 nephrectomized rat model, involving unilateral nephrectomy and either partial infarction or amputation of the poles of the remaining kidney, represents the primary option for the investigation of CKD (4,33,34). Lu et al reported kidney dysfunction, with significantly elevated BUN and SCr levels and histopathological changes (glomerular sclerosis and interstitial fibrosis) in a 5/6 nephrectomized rat model (34). The 5/6 nephrectomized model of CKD has demonstrable clinical relevance (5,35,64,65). SCr reflects the ability of the renal system to remove creatinine from the blood and to concentrate it in the urine. The diseased or damaged kidney is less able to clear urea from the bloodstream, which results in elevated SCr and BUN levels (66). In our 5/6 nephrectomized rat model, glomerular and interstitial pathogenesis was significantly altered (Fig. 1); rats subjected to 5/6 nephrectomy exhibited markedly increased SCr and BUN levels (Fig. 2), and this increase was reversed by 1 week of treatment with SK, suggesting that SK restores kidney dysfunction in 5/6 nephrectomized rats.
+
+Oxidative stress manifests as an increase in the production of ROS, which arise from various cellular sources (67,68). ROS represent a family consisting of a large number of free-radical and non-free-radical molecules derived from oxygen; the free radical reaction is a type of chain reaction (29,69). Small et al (29), as well as others have clearly demonstrated that oxidative stress is a unifying mechanism in CKD pathogenesis (33,70). In addition, Lee et al demonstrated that ROS are important mediators of apoptosis, as they alter mitochondrial membrane potential (31). Tu et al provided evidence that cell apoptosis, including in renal tubular epithelial HK-2 cells, is a critical determinant of renal fibrosis, which eventually results in CKD (71). Similarly, our results also indicated that treatment of HK-2 cells with H2O2 promoted apoptosis (Figs. 3A and 4). This effect, attenuated by concomitant SK treatment (Figs. 3B and 4), was further evaluated by measuring ROS levels and TAC. The H2O2-mediated ROS production in HK-2 cells was reduced by pre-treatment of the cells with SK (Fig. 5). Of note, TAC was enhanced by SK treatment (Fig. 5B), suggesting that the upregulation of TAC by SK may underlie the SK-mediated cell survival.
+
+ROS also activate MAPKs, which include ERK, JNK and p38 MAPK (72–75). The MAPK signaling pathways play a vital role in the apoptosis of renal proximal tubule epithelial cells, inflammation and renal injury (73,76–83). Shimizu et al reported that the renal expression of monocyte chemotactic protein-1 is upregulated by indoxyl sulfate through ROS production and the activation of ERK and JNK in proximal tubular cells (77). Consistent with previous studies, in this study, ERK and p38 MAPK phosphorylation was increased by exposure of the cells to H2O2 (Fig. 6A). However, SK pretreatment prevented the H2O2-mediated ERK and p38 MAPK activation in HK-2 cells (Fig. 6A), indicating that SK protects HK-2 cells against H2O2-induced apoptosis, by modulating TAC and the MAPK signaling pathways (Fig. 6B).
+
+Taken together, our data suggest that SK attenuates glomerular sclerosis and interstitial fibrosis, reduces SCr and BUN levels in rats subjected to 5/6 nephrectomy and abrogates the H2O2-induced apoptosis of HK-2 cells. This inhibitory effect may be partly mediated through the MAPK signaling pathways and the upregulation of TAC. The association between TAC and MAPK signaling requires further investigation.
+
+Acknowledgments
+This study was supported by grants from the National Natural Science Foundation of China (nos. 81373947 and 81201985) and by the National Research Foundation of Korea (NRF) grant funded by the Korean government (MEST) (grant nos. 2007-0054932, 2012R1A1A2004714 and 2012M3A9B6055302).
+
+Abbreviations:
+CKD
+
+chronic kidney disease
+
+BUN
+
+blood urea nitrogen
+
+ROS
+
+reactive oxygen species
+
+PI
+
+propidium iodide
+
+References
+1 
+
+Small DM and Gobe GC: Oxidative stress and antioxidant therapy in chronic kidney and cardiovascular disease. Oxidative Stress and Chronic Degenerative Diseases - A Role for Antioxidants. Morales-Gonzales JA: InTech; pp. 233–264. 2013
+2 
+
+Canaud G, Bienaimé F, Viau A, Treins C, Baron W, Nguyen C, Burtin M, Berissi S, Giannakakis K, Muda AO, et al: AKT2 is essential to maintain podocyte viability and function during chronic kidney disease. Nat Med. 19:1288–1296. 2013. View Article : Google Scholar : PubMed/NCBI
+3 
+
+Impellizzeri D, Esposito E, Attley J and Cuzzocrea S: Targeting inflammation: new therapeutic approaches in chronic kidney disease (CKD). Pharmacol Res. 81:91–102. 2014. View Article : Google Scholar : PubMed/NCBI
+4 
+
+Suzuki Y, Yamaguchi I, Onoda N, Saito T, Myojo K, Imaizumi M, Takada C, Kimoto N, Takaba K and Yamate J: Differential renal glomerular changes induced by 5/6 nephrectomization between common marmoset monkeys (Callithrix jacchus) and rats. Exp Toxicol Pathol. 65:667–676. 2013. View Article : Google Scholar
+5 
+
+Fedorova LV, Tamirisa A, Kennedy DJ, Haller ST, Budnyy G, Shapiro JI and Malhotra D: Mitochondrial impairment in the five-sixth nephrectomy model of chronic renal failure: proteomic approach. BMC Nephrol. 14:2092013. View Article : Google Scholar : PubMed/NCBI
+6 
+
+Chen JF, Liu H, Ni HF, Lv LL, Zhang MH, Zhang AH, Tang RN, Chen PS and Liu BC: Improved mitochondrial function underlies the protective effect of pirfenidone against tubulointerstitial fibrosis in 5/6 nephrectomized rats. PLoS One. 8:e835932013. View Article : Google Scholar : PubMed/NCBI
+7 
+
+Albersmeyer M, Hilge R, Schröttle A, Weiss M, Sitter T and Vielhauer V: Acute kidney injury after ingestion of rhubarb: secondary oxalate nephropathy in a patient with type 1 diabetes. BMC Nephrol. 13:1412012. View Article : Google Scholar : PubMed/NCBI
+8 
+
+Hanzlicek AS, Roof CJ, Sanderson MW and Grauer GF: The Effect of Chinese rhubarb, Rheum officinale, with and without benazepril on the progression of naturally occurring chronic kidney disease in cats. J Vet Intern Med. 28:1221–1228. 2014. View Article : Google Scholar : PubMed/NCBI
+9 
+
+Wang J, Zhao Y, Xiao X, Li H, Zhao H, Zhang P and Jin C: Assessment of the renal protection and hepatotoxicity of rhubarb extract in rats. J Ethnopharmacol. 124:18–25. 2009. View Article : Google Scholar : PubMed/NCBI
+10 
+
+Yan M, Zhang LY, Sun LX, Jiang ZZ and Xiao XH: Nephrotoxicity study of total rhubarb anthraquinones on Sprague Dawley rats using DNA microarrays. J Ethnopharmacol. 107:308–311. 2006. View Article : Google Scholar : PubMed/NCBI
+11 
+
+Ahn YM, Kim SK, Lee SH, Ahn SY, Kang SW, Chung JH, Kim SD and Lee BC: Renoprotective effect of Tanshinone IIA, an active component of Salvia miltiorrhiza, on rats with chronic kidney disease. Phytother Res. 24:1886–1892. 2010. View Article : Google Scholar : PubMed/NCBI
+12 
+
+Behradmanesh S, Derees F and Rafieian-Kopaei M: Effect of Salvia officinalis on diabetic patients. J Renal Inj Prev. 2:51–54. 2013.PubMed/NCBI
+13 
+
+Chen G, Fu Y and Wu X: Protective effect of Salvia miltiorrhiza extract against renal ischemia-reperfusion-induced injury in rats. Molecules. 17:1191–1202. 2012. View Article : Google Scholar : PubMed/NCBI
+14 
+
+Guan S, Ma J, Zhang Y, Gao Y, Zhang Y, Zhang X, Wang N, Xie Y, Wang J, Zhang J, et al: Danshen (Salvia miltiorrhiza) injection suppresses kidney injury induced by iron overload in mice. PLoS One. 8:e743182013. View Article : Google Scholar : PubMed/NCBI
+15 
+
+Lee SH, Kim YS, Lee SJ and Lee BC: The protective effect of Salvia miltiorrhiza in an animal model of early experimentally induced diabetic nephropathy. J Ethnopharmacol. 137:1409–1414. 2011. View Article : Google Scholar : PubMed/NCBI
+16 
+
+Li L, Zhang Y, Ma J, Dong W, Song Q, Zhang J and Chu L: Salvia miltiorrhiza injection ameliorates renal damage induced by lead exposure in mice. ScientificWorldJournal. 2014:5726972014.PubMed/NCBI
+17 
+
+You Z, Xin Y, Liu Y, Han B, Zhang L, Chen Y, Chen Y, Gu L, Gao H and Xuan Y: Protective effect of Salvia miltiorrhiza e injection on N(G)-nitro-D-arginine induced nitric oxide deficient and oxidative damage in rat kidney. Exp Toxicol Pathol. 64:453–458. 2012. View Article : Google Scholar
+18 
+
+Lo HC, Wang YH, Chiou HY, Lai SH and Yang Y: Relative efficacy of casein or soya protein combined with palm or safflower-seed oil on hyperuricaemia in rats. Br J Nutr. 104:67–75. 2010. View Article : Google Scholar : PubMed/NCBI
+19 
+
+Yang YL, Chang SY, Teng HC, Liu YS, Lee TC, Chuang LY, Guh JY, Chang FR, Liao TN, Huang JS, et al: Safflower extract: a novel renal fibrosis antagonist that functions by suppressing autocrine TGF-beta. J Cell Biochem. 104:908–919. 2008. View Article : Google Scholar : PubMed/NCBI
+20 
+
+Bai F, Makino T, Kono K, Nagatsu A, Ono T and Mizukami H: Calycosin and formononetin from astragalus root enhance dimethylarginine dimethylaminohydrolase 2 and nitric oxide synthase expressions in Madin Darby Canine Kidney II cells. J Nat Med. 67:782–789. 2013. View Article : Google Scholar : PubMed/NCBI
+21 
+
+Kim J, Moon E and Kwon S: Effect of Astragalus membranaceus extract on diabetic nephropathy. Endocrinol Diabetes Metab Case Rep. 2014:1400632014.PubMed/NCBI
+22 
+
+Li M, Wang W, Xue J, Gu Y and Lin S: Meta-analysis of the clinical value of Astragalus membranaceus in diabetic nephropathy. J Ethnopharmacol. 133:412–419. 2011. View Article : Google Scholar
+23 
+
+Lian Y, Xie L, Chen M and Chen L: Effects of an astragalus polysaccharide and rhein combination on apoptosis in rats with chronic renal failure. Evid Based Complement Alternat Med. 2014:2718622014.PubMed/NCBI
+24 
+
+Nie Y, Li S, Yi Y, Su W, Chai X, Jia D and Wang Q: Effects of astragalus injection on the TGFβ/Smad pathway in the kidney in type 2 diabetic mice. BMC Complement Altern Med. 14:1482014. View Article : Google Scholar
+25 
+
+Song J, Meng L, Li S, Qu L and Li X: A combination of Chinese herbs, Astragalus membranaceus var. mongholicus and Angelica sinensis, improved renal microvascular insufficiency in 5/6 nephrectomized rats. Vascul Pharmacol. 50:185–193. 2009. View Article : Google Scholar : PubMed/NCBI
+26 
+
+Zhang HW, Lin ZX, Xu C, Leung C and Chan LS: Astragalus (a traditional Chinese medicine) for treating chronic kidney disease. Cochrane Database Syst Rev. 10:CD0083692014.PubMed/NCBI
+27 
+
+Zhang J, Xie X, Li C and Fu P: Systematic review of the renal protective effect of Astragalus membranaceus (root) on diabetic nephropathy in animal models. J Ethnopharmacol. 126:189–196. 2009. View Article : Google Scholar : PubMed/NCBI
+28 
+
+Miyamoto Y, Iwao Y, Mera K, Watanabe H, Kadowaki D, Ishima Y, Chuang VT, Sato K, Otagiri M and Maruyama T: A uremic toxin, 3-carboxy-4-methyl-5-propyl-2-furanpropionate induces cell damage to proximal tubular cells via the generation of a radical intermediate. Biochem Pharmacol. 84:1207–1214. 2012. View Article : Google Scholar : PubMed/NCBI
+29 
+
+Small DM, Bennett NC, Roy S, Gabrielli BG, Johnson DW and Gobe GC: Oxidative stress and cell senescence combine to cause maximal renal tubular epithelial cell dysfunction and loss in an in vitro model of kidney disease. Nephron Exp Nephrol. 122:123–130. 2012. View Article : Google Scholar
+30 
+
+Yu X, Liu H, Zou J, Zhu J, Xu X and Ding X: Oxidative stress in 5/6 nephrectomized rat model: effect of alpha-lipoic acid. Ren Fail. 34:907–914. 2012. View Article : Google Scholar : PubMed/NCBI
+31 
+
+Lee KE, Kim EY, Kim CS, Choi JS, Bae EH, Ma SK, Park JS, Jung YD, Kim SH, Lee JU and Kim SW: Macrophage-stimulating protein attenuates hydrogen peroxide-induced apoptosis in human renal HK-2 cells. Eur J Pharmacol. 715:304–311. 2013. View Article : Google Scholar : PubMed/NCBI
+32 
+
+Zaza G, Granata S, Masola V, Rugiu C, Fantin F, Gesualdo L, Schena FP and Lupo A: Downregulation of nuclear-encoded genes of oxidative metabolism in dialyzed chronic kidney disease patients. PLoS One. 8:e778472013. View Article : Google Scholar : PubMed/NCBI
+33 
+
+Tapia E, Soto V, Ortiz-Vega KM, Zarco-Márquez G, Molina-Jijón E, Cristóbal-García M, Santamaría J, García-Niño WR, Correa F, Zazueta C and Pedraza-Chaverri J: Curcumin induces Nrf2 nuclear translocation and prevents glomerular hypertension, hyperfiltration, oxidant stress, and the decrease in antioxidant enzymes in 5/6 nephrectomized rats. Oxid Med Cell Longev. 2012:2690392012. View Article : Google Scholar : PubMed/NCBI
+34 
+
+Lu JR, Han HY, Chen J, Xiong CX, Wang XH, Hu J, Chen XF and Ma L: Protective effects of Bu-Shen-Huo-Xue formula against 5/6 nephrectomy-induced chronic renal failure in rats. Evid Based Complement Alternat Med. 2014:5898462014.PubMed/NCBI
+35 
+
+Gava AL, Freitas FP, Balarini CM, Vasquez EC and Meyrelles SS: Effects of 5/6 nephrectomy on renal function and blood pressure in mice. Int J Physiol Pathophysiol Pharmacol. 4:167–173. 2012.PubMed/NCBI
+36 
+
+Hamada K, Taniguchi Y, Shimamura Y, Inoue K, Ogata K, Ishihara M, Horino T, Fujimoto S, Ohguro T, Yoshimoto Y, et al: Serum level of soluble (pro)renin receptor is modulated in chronic kidney disease. Clin Exp Nephrol. 17:848–856. 2013. View Article : Google Scholar : PubMed/NCBI
+37 
+
+Ding ZH, Xu LM, Wang SZ, Kou JQ, Xu YL, Chen CX, Yu HP, Qin ZH and Xie Y: Ameliorating adriamycin-induced chronic kidney disease in rats by orally administrated cardiotoxin from Naja naja atra venom. Evid Based Complement Alternat Med. 2014:6217562014.PubMed/NCBI
+38 
+
+Nagai J, Yamamoto A, Yumoto R and Takano M: Albumin overload induces expression of hypoxia-inducible factor 1α and its target genes in HK-2 human renal proximal tubular cell line. Biochem Biophys Res Commun. 434:670–675. 2013. View Article : Google Scholar : PubMed/NCBI
+39 
+
+Kwon JT, Seo GB, Jo, Lee M, Kim HM, Shim I, Lee BW, Yoon BI, Kim P and Choi K: Aluminum nanoparticles induce ERK and p38MAPK activation in rat brain. Toxicol Res. 29:181–185. 2013. View Article : Google Scholar
+40 
+
+Waly MI, Ali BH, Al-Lawati I and Nemmar A: Protective effects of emodin against cisplatin-induced oxidative stress in cultured human kidney (HEK 293) cells. J Appl Toxicol. 33:626–630. 2013. View Article : Google Scholar
+41 
+
+Du J, Chen H and Wang XB: Effect of shenkang injection on hypertrophy and expressions of p21 and p27 in glomerular mesangial cells of rats cultured in high glucose. Zhongguo Zhong Xi Yi Jie He Za Zhi. 26(Suppl): 68–71. 2006.In Chinese.
+42 
+
+Fu C, Song S and Shi Y: Observation on effect of chongcao shenkang capsules in preventing and treating acute renal failure in cases of hemorrhagic fever with renal syndrome. Zhonghua Shi Yan He Lin Chuang Bing Du Xue Za Zhi. 13:188–190. 1999.In Chinese.
+43 
+
+Guo L, Liu Y and Mao W: Contrast study on effect of shenkang injection and benazepril on human glomerular mesangial extracellular matrix. Zhongguo Zhong Xi Yi Jie He Za Zhi. 20:50–52. 2000.In Chinese.
+44 
+
+Guo LZ, Mao W and Wang HM: Serological study on inhibitory function of shenkang injection on glomerular mesangial cell. Zhongguo Zhong Xi Yi Jie He Za Zhi. 21:531–533. 2001.In Chinese.
+45 
+
+Xiao W, Wei LB, Ma Y, Long HB and Chen GB: Renal protective effect of Shenkang pill on diabetic rats. Zhongguo Zhong Yao Za Zhi. 31:1006–1009. 2006.In Chinese. PubMed/NCBI
+46 
+
+Zhao Y, Wang JC, Li HY, Jia Q, Chen S, Xu Z, Du X, Chen X, Lu L, Huang B and Long H: Shenkang pill down-regulates AOPP-induced expression of inflammatory factor MCP-1 via a p38MAPK/NF-κB-dependent mechanism. Nan Fang Yi Ke Da Xue Xue Bao. 34:1265–1271. 2014.In Chinese. PubMed/NCBI
+47 
+
+Zhao Z, Li H and Zhang X: Effect of shenkang injection on transforming growth factor-beta messenger ribonucleic acid of LLC-PK1 renal tubular epithelial cells. Zhongguo Zhong Xi Yi Jie He Za Zhi. 20:931–933. 2000.In Chinese.
+48 
+
+Chatterjee PK, Chatterjee BE, Pedersen H, Sivarajah A, McDonald MC, Mota-Filipe H, Brown PA, Stewart KN, Cuzzocrea S, Threadgill MD and Thiemermann C: 5-Aminoisoquinolinone reduces renal injury and dysfunction caused by experimental ischemia/reperfusion. Kidney Int. 65:499–509. 2004. View Article : Google Scholar : PubMed/NCBI
+49 
+
+Park SM, Jung HC, Koak IS, Na HY, Woo JS, Jung JS and Kim YK: Oxidant-induced cell death in renal epithelial cells: differential effects of inorganic and organic hydroperoxides. Pharmacol Toxicol. 92:43–50. 2003. View Article : Google Scholar : PubMed/NCBI
+50 
+
+Khan Z and Pandey M: Role of kidney biomarkers of chronic kidney disease: An update. Saudi J Biol Sci. 21:294–299. 2014. View Article : Google Scholar : PubMed/NCBI
+51 
+
+Padullés A, Rama I, Llaudó I and Lloberas N: Developments in renal pharmacogenomics and applications in chronic kidney disease. Pharmgenomics Pers Med. 7:251–266. 2014.PubMed/NCBI
+52 
+
+Junaid Nazar CM, Kindratt TB, Ahmad SM, Ahmed M and Anderson J: Barriers to the successful practice of chronic kidney diseases at the primary health care level; a systematic review. J Renal Inj Prev. 3:61–67. 2014.PubMed/NCBI
+53 
+
+Lenz O, Mekala DP, Patel DV, Fornoni A, Metz D and Roth D: Barriers to successful care for chronic kidney disease. BMC Nephrol. 6:112005. View Article : Google Scholar : PubMed/NCBI
+54 
+
+Campbell RC, Sui X, Filippatos G, Love TE, Wahle C, Sanders PW and Ahmed A: Association of chronic kidney disease with outcomes in chronic heart failure: a propensity-matched study. Nephrol Dial Transplant. 24:186–193. 2009. View Article : Google Scholar :
+55 
+
+Onuigbo MA and Agbasi N: Chronic kidney disease prediction is an inexact science: The concept of 'progressors' and 'nonprogressors'. World J Nephrol. 3:31–49. 2014. View Article : Google Scholar : PubMed/NCBI
+56 
+
+Goolsby MJ: National kidney foundation guidelines for chronic kidney disease: evaluation, classification, and stratification. J Am Acad Nurse Pract. 14:238–242. 2002. View Article : Google Scholar : PubMed/NCBI
+57 
+
+Kopple JD: National kidney foundation K/DOQI clinical practice guidelines for nutrition in chronic renal failure. Am J Kidney Dis. 37(Suppl 2): S66–S70. 2001. View Article : Google Scholar : PubMed/NCBI
+58 
+
+Levey AS, Coresh J, Balk E, Kausz AT, Levin A, Steffes MW, Hogg RJ, Perrone RD, Lau J and Eknoyan G; National Kidney Foundation: National Kidney Foundation practice guidelines for chronic kidney disease: evaluation, classification, and stratification. Ann Intern Med. 139:137–147. 2003. View Article : Google Scholar : PubMed/NCBI
+59 
+
+Li X and Wang H: Chinese herbal medicine in the treatment of chronic kidney disease. Adv Chronic Kidney Dis. 12:276–281. 2005. View Article : Google Scholar : PubMed/NCBI
+60 
+
+Normile D: Asian medicine. The new face of traditional Chinese medicine. Science. 299:188–190. 2003. View Article : Google Scholar : PubMed/NCBI
+61 
+
+Zhong Y, Deng Y, Chen Y, Chuang PY and Cijiang He J: Therapeutic use of traditional Chinese herbal medications for chronic kidney diseases. Kidney Int. 84:1108–1118. 2013. View Article : Google Scholar : PubMed/NCBI
+62 
+
+Xu Q, Bauer R, Hendry BM, Fan TP, Zhao Z, Duez P, Simmonds MS, Witt CM, Lu A, Robinson N, et al: The quest for modernisation of traditional Chinese medicine. BMC Complement Altern Med. 13:1322013. View Article : Google Scholar : PubMed/NCBI
+63 
+
+Wojcikowski K, Johnson DW and Gobe G: Herbs or natural substances as complementary therapies for chronic kidney disease: ideas for future studies. J Lab Clin Med. 147:160–166. 2006. View Article : Google Scholar : PubMed/NCBI
+64 
+
+Santos LS, Chin EW, Ioshii SO and Tambara Filho R: Surgical reduction of the renal mass in rats: morphologic and functional analysis on the remnant kidney. Acta Cir Bras. 21:252–257. 2006. View Article : Google Scholar : PubMed/NCBI
+65 
+
+Kren S and Hostetter TH: The course of the remnant kidney model in mice. Kidney Int. 56:333–337. 1999. View Article : Google Scholar : PubMed/NCBI
+66 
+
+He L, Shen P, Fu Q, Li J, Dan M, Wang X and Jia W: Nephro-protective effect of Kangqianling decoction on chronic renal failure rats. J Ethnopharmacol. 122:367–373. 2009. View Article : Google Scholar : PubMed/NCBI
+67 
+
+Wen X, Wu J, Wang F, Liu B, Huang C and Wei Y: Deconvoluting the role of reactive oxygen species and autophagy in human diseases. Free Radic Biol Med. 65:402–410. 2013. View Article : Google Scholar : PubMed/NCBI
+68 
+
+Dettmering T, Zahnreich S, Colindres-Rojas M, Durante M, Taucher-Scholz G and Fournier C: Increased effectiveness of carbon ions in the production of reactive oxygen species in normal human fibroblasts. J Radiat Res. 56:67–76. 2015. View Article : Google Scholar
+69 
+
+Qin XJ, He W, Hai CX, Liang X and Liu R: Protection of multiple antioxidants Chinese herbal medicine on the oxidative stress induced by adriamycin chemotherapy. J Appl Toxicol. 28:271–282. 2008. View Article : Google Scholar
+70 
+
+Bongartz LG, Cramer MJ, Doevendans PA, Joles JA and Braam B: The severe cardiorenal syndrome: 'Guyton revisited'. Eur Heart J. 26:11–17. 2005. View Article : Google Scholar
+71 
+
+Tu Y, Sun W, Wan YG, Gao K, Liu H, Yu BY, Hu H and Huang YR: Dahuang Fuzi Decoction ameliorates tubular epithelial apoptosis and renal damage via inhibiting TGF-β1-JNK signaling pathway activation in vivo. J Ethnopharmacol. 156:115–124. 2014. View Article : Google Scholar : PubMed/NCBI
+72 
+
+Wankun X, Wenzhen Y, Min Z, Weiyan Z, Huan C, Wei D, Lvzhen H, Xu Y and Xiaoxin L: Protective effect of paeoniflorin against oxidative stress in human retinal pigment epithelium in vitro. Mol Vis. 17:3512–3522. 2011.
+73 
+
+Cao Y, Zhang Y, Wang N and He L: Antioxidant effect of imperatorin from Angelica dahurica in hypertension via inhibiting NADPH oxidase activation and MAPK pathway. J Am Soc Hypertens. 8:527–536. 2014. View Article : Google Scholar : PubMed/NCBI
+74 
+
+Chakraborti S and Chakraborti T: Oxidant-mediated activation of mitogen-activated protein kinases and nuclear transcription factors in the cardiovascular system: a brief overview. Cell Signal. 10:675–683. 1998. View Article : Google Scholar
+75 
+
+Li ZJ, Li XM, Piao YJ, Choi DK, Kim SJ, Kim JW, Sohn KC, Kim CD and Lee JH: Genkwadaphnin induces reactive oxygen species (ROS)-mediated apoptosis of squamous cell carcinoma (SCC) cells. Biochem Biophys Res Commun. 450:1115–1119. 2014. View Article : Google Scholar : PubMed/NCBI
+76 
+
+Zhang W and Liu HT: MAPK signal pathways in the regulation of cell proliferation in mammalian cells. Cell Res. 12:9–18. 2002. View Article : Google Scholar : PubMed/NCBI
+77 
+
+Shimizu H, Bolati D, Higashiyama Y, Nishijima F, Shimizu K and Niwa T: Indoxyl sulfate upregulates renal expression of MCP-1 via production of ROS and activation of NF-κB, p53, ERK, and JNK in proximal tubular cells. Life Sci. 90:525–530. 2012. View Article : Google Scholar : PubMed/NCBI
+78 
+
+Sung CC, Hsu YC, Chen CC, Lin YF and Wu CC: Oxidative stress and nucleic acid oxidation in patients with chronic kidney disease. Oxid Med Cell Longev. 2013:3019822013. View Article : Google Scholar : PubMed/NCBI
+79 
+
+Khan SR: Stress oxidative: nephrolithiasis and chronic kidney diseases. Minerva Med. 104:23–30. 2013.PubMed/NCBI
+80 
+
+Popolo A, Autore G, Pinto A and Marzocco S: Oxidative stress in patients with cardiovascular disease and chronic renal failure. Free Radic Res. 47:346–356. 2013. View Article : Google Scholar : PubMed/NCBI
+81 
+
+Huang C, Day ML, Poronnik P, Pollock CA and Chen XM: Inhibition of KCa3.1 suppresses TGF-β1 induced MCP-1 expression in human proximal tubular cells through Smad3, p38 and ERK1/2 signaling pathways. Int J Biochem Cell Biol. 47:1–10. 2014. View Article : Google Scholar
+82 
+
+An P, Dang HM, Shi XM, Ye BY and Wu XL: 'Qufeng Tongluo' acupuncture prevents the progression of glomerulonephritis by decreasing renal sympathetic nerve activity. J Ethnopharmacol. 155:277–284. 2014. View Article : Google Scholar : PubMed/NCBI
+83 
+
+Alcorn JF, van der Velden J, Brown AL, McElhinney B, Irvin CG and Janssen-Heininger YM: c-Jun N-terminal kinase 1 is required for the development of pulmonary fibrosis. Am J Respir Cell Mol Biol. 40:422–432. 2009. View Article : Google Scholar :
